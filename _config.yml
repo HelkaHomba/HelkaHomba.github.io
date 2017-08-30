@@ -1,2 +1,4 @@
 name: Helka Homba
 markdown: kramdown
+plugins:
+  - jekyll-redirect-from
